@@ -118,7 +118,7 @@ function cities(){
 		});
 		//add another interaction called click, so a message will pop up if user click the table
 		document.querySelector("table").addEventListener("click", function(){
-			alert('Hi, you clicked me!');
+			alert('Hey, you clicked me!');
 		});
 		
 	};
